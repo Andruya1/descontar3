@@ -1,0 +1,11 @@
+## Pages
+- [¡Activación Exitosa! - DescontAR](/qrcode): Tu código QR de DescontAR está listo. ¡Muéstralo en los comercios adheridos y disfruta!
+- [¡Gracias por tu compra! - DescontAR](/thankyou): Confirmación de tu compra en DescontAR. Recibirás tu QR por WhatsApp.
+- [Activación de Pase - DescontAR](/activation): Activa tu pase DescontAR para empezar a disfrutar de descuentos exclusivos en toda Argentina.
+- [Comercios Adheridos - DescontAR](/comercios): Explora el mapa de comercios adheridos a DescontAR en toda Argentina. Encuentra tu próximo destino de ahorro.
+- [Destinos en Construcción - DescontAR](/destinations): Página de destinos actualmente en construcción.
+- [Nosotros - DescontAR](/about): Conoce la misión y visión de DescontAR, la empresa que está revolucionando el turismo en Argentina con descuentos exclusivos.
+- [Nuestros Pases - DescontAR](/discounts): Elige tu pase de descuento ideal y comienza a ahorrar en tu viaje por Argentina. Pases para parejas, grupos y viajeros solitarios.
+- [Política de Privacidad - DescontAR](/privacypolicy): Lea nuestra Política de Privacidad para entender cómo DescontAR recolecta, usa y protege su información personal.
+- [Preguntas Frecuentes - DescontAR](/faq): Encuentra respuestas a las preguntas más comunes sobre DescontAR, tu tarjeta de descuentos para viajar por Argentina.
+- [Términos y Condiciones - DescontAR](/termsandconditions): Lea los Términos y Condiciones de uso de los servicios de DescontAR.
